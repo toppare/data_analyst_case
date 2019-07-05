@@ -1,7 +1,7 @@
 # Data Analyst Case
 Thanks a lot for taking the time to tackle the challenge for the Data Analyst role here at 8fit.
 
-While you work your way through this case you will most likely have questions, find problems or even things not working out. If you encounter anything please do not hesitate to reach out to us and we'll help you out. We all make mistakes and can learn from each other :sun:
+While you work your way through this case you will most likely have questions, find problems or even things not working out. If you encounter anything please do not hesitate to reach out to us and we'll help you out. We all make mistakes and can learn from each other :blush:
 
 ## Requirements
 
